@@ -1,5 +1,5 @@
 // 儿童英语单词库
-export const wordList = [{
+[{
 		word: "cat",
 		meaning: "猫；猫咪；猫科动物",
 		date: "2026-06-02",
