@@ -1,2 +1,3 @@
 # StepWiseImg
-https://cdn.jsdelivr.net/gh/你的用户名/仓库名@main/文件路径
+https://cdn.jsdelivr.net/gh/PunkClergy/StepWiseImg@main/Image/kidsEnglish/cat.png
+https://cdn.jsdelivr.net/gh/PunkClergy/StepWiseImg@main/JavaScript/kidsEnglish/EN.js
